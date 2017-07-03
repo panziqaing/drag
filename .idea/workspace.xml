@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2717f972-70f0-488c-81c3-c8e5f5f458ca" name="默认的" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drag.js" afterPath="$PROJECT_DIR$/drag.js" />
     </list>
     <ignored path="drag.iws" />
@@ -36,11 +37,9 @@
       <file leaf-file-name="drag.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/drag.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc;n#drag#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="116">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -150,12 +149,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499080000298</updated>
-      <workItem from="1499080001602" duration="1260000" />
+      <workItem from="1499080001602" duration="1409000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1260000" />
+    <option name="totallyTimeSpent" value="1409000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="11" y="23" width="1269" height="710" extended-state="0" />
@@ -199,11 +198,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/drag.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc;n#drag#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="116">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
